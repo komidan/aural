@@ -1,0 +1,8 @@
+# python exclusions
+__pycache__/
+.venv
+
+# personal exlude the files created by the code
+temp/
+music/
+tests.py
